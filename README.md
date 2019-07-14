@@ -4,7 +4,7 @@
 > 군더더기 없는 아주 가벼운 프레임워크  
 > ~필요한 기능을 내가 만들죠~  
 
-## 참고 `Reference`
+### 참고 `Reference`
 * [Flask 공식 홈페이지](https://flask.palletsprojects.com/en/1.1.x/)
 * [Flask 깃헙](https://github.com/pallets/flask)
 
@@ -40,11 +40,24 @@ $ flask run
 
 
 
+# `Routing`
+> URL을 사용해 유저에게 편리한 기능을 제공합니다
+
+1. 기본 `Routing`
+2. `Variable` 사용
+  > 이름을 불러 인사하기
+3. Redirection 행동
+4. URL 만들기
+5. `Templates` 랜더링
+  > 점심메뉴 고르기
 
 
+# `Send`, `Receive` 
+> 웹페이지에서 요청과 응답을 공부합니다
 
-
-
+1. 유저와 메세지 보내고 받기
+2. N차 로또 번호 확인하기
+3. 내 등수 확인하기
 
 ## 파이썬 가상환경
 > 필요하신 분들만 하시면 됩니다

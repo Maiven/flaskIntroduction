@@ -45,11 +45,11 @@ $ flask run
 
 1. 기본 `Routing`
 2. `Variable` 사용
-    > 이름을 불러 인사하기
+    * 이름을 불러 인사하기
 3. Redirection 행동
 4. URL 만들기
 5. `Templates` 랜더링
-    > 점심메뉴 고르기
+    * 점심메뉴 고르기
 
 
 # `Send`, `Receive` 
